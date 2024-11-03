@@ -200,7 +200,7 @@ body {
 #priya .col {
     width: 23%;
     height: 100%;
-    background-color: gainsboro;
+    background-color: rgb(99, 74, 74);
 }
 
 #priya .col:nth-child(1) {
